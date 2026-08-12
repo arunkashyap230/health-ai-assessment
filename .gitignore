@@ -1,0 +1,12 @@
+# Root repo
+node_modules/
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+!.env.example
+!.**/.env.example
+.DS_Store
+coverage/
+.vite/
+*.log
